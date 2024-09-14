@@ -38,7 +38,7 @@ environment:
     - python3
     icon_url: ""
     image_version: 1.0.0
-    os: linux
+    os: linux/amd64
     os_distro: ubuntu
     os_distro_release: "20.04"
     schema_version: v2
